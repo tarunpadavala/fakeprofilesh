@@ -1,1 +1,1 @@
-web: gunicorn fakeprofile.wsgi
+web: gunicorn fakeprofile.fakeprofile.wsgi
